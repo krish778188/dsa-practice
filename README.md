@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
 | [0213-house-robber-ii](https://github.com/krish778188/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/krish778188/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
