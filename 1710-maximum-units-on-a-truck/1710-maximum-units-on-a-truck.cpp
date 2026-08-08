@@ -16,7 +16,7 @@ public:
                 ans += val;
                 truckSize -= wt;
             } else {
-                ans += (val/wt) * truckSize;break;
+                ans += boxTypes[i][1] * truckSize;break;
             }
         }
         return ans;
