@@ -11,9 +11,10 @@ class Solution {
 
 public:
     vector<int> perm(vector<int>& nums, int itr) {
-        if (itr == factorial(nums.size()))
+        if(itr == factorial(nums.size()))
             return nums;
         bool has_next = std::next_permutation(nums.begin(), nums.end());
+        if(has_next) return nums;
         return nums;
     }
     vector<vector<int>> permute(vector<int>& nums) {
