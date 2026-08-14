@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krish778188/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Breadth-First Search
 |  |
