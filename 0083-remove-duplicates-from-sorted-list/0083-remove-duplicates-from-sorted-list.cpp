@@ -18,8 +18,9 @@ public:
             while(prev && temp && prev->val == temp->val) {
                 prev2 = temp;
                 temp = temp->next;
+                delete prev2;
             }
-            if(prev2) prev2->next = NULL;
+            // if(prev2) prev2->next = NULL;
             if(prev) prev->next = temp;
             prev = temp;
             if(temp) temp = temp->next;
