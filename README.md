@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/krish778188/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/krish778188/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Knapsack Problem
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/krish778188/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
