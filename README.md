@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/krish778188/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/krish778188/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -151,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/krish778188/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/krish778188/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
