@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Array
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
