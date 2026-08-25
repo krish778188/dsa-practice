@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/krish778188/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krish778188/dsa-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/krish778188/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/krish778188/dsa-practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/krish778188/dsa-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
