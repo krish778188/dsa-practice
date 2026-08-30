@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/krish778188/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/krish778188/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/krish778188/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/krish778188/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
