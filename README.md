@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/krish778188/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krish778188/dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/krish778188/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish778188/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krish778188/dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/krish778188/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/krish778188/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
 ## Math
 |  |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [1143-longest-common-subsequence](https://github.com/krish778188/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
