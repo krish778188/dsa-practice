@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/krish778188/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krish778188/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/krish778188/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/krish778188/dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krish778188/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/krish778188/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
