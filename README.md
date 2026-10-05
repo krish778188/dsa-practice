@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/krish778188/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -266,12 +267,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
