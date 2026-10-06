@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krish778188/dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/krish778188/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
