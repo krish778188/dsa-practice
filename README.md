@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/krish778188/dsa-practice/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish778188/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/krish778188/dsa-practice/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
