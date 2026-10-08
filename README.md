@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/krish778188/dsa-practice/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krish778188/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krish778188/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
 ## Linked List
 |  |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
