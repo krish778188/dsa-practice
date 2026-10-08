@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/krish778188/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
