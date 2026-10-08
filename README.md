@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/krish778188/dsa-practice/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krish778188/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/krish778188/dsa-practice/tree/master/0152-maximum-product-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krish778188/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krish778188/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
