@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/krish778188/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/krish778188/dsa-practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krish778188/dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/krish778188/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krish778188/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
