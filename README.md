@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/krish778188/dsa-practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/krish778188/dsa-practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krish778188/dsa-practice/tree/master/3871-count-commas-in-range-ii) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
