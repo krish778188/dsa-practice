@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krish778188/dsa-practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/krish778188/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/krish778188/dsa-practice/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krish778188/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krish778188/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/krish778188/dsa-practice/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/krish778188/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish778188/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish778188/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish778188/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 ## String
