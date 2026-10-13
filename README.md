@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/krish778188/dsa-practice/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/krish778188/dsa-practice/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krish778188/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/krish778188/dsa-practice/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/krish778188/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/krish778188/dsa-practice/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -348,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krish778188/dsa-practice/tree/master/0043-multiply-strings) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
