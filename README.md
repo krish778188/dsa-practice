@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krish778188/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/krish778188/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krish778188/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/krish778188/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/krish778188/dsa-practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/krish778188/dsa-practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krish778188/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
