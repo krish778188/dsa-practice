@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krish778188/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/krish778188/dsa-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krish778188/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Tree
 |  |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krish778188/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krish778188/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krish778188/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
@@ -212,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish778188/dsa-practice/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/krish778188/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/krish778188/dsa-practice/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/krish778188/dsa-practice/tree/master/0841-keys-and-rooms) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
