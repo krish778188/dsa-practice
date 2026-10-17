@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krish778188/dsa-practice/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/krish778188/dsa-practice/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/krish778188/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/krish778188/dsa-practice/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krish778188/dsa-practice/tree/master/0078-subsets) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
