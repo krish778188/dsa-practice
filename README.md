@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/krish778188/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/krish778188/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/krish778188/dsa-practice/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/krish778188/dsa-practice/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/krish778188/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/krish778188/dsa-practice/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/krish778188/dsa-practice/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/krish778188/dsa-practice/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish778188/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
