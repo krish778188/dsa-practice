@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/krish778188/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krish778188/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/krish778188/dsa-practice/tree/master/1598-crawler-log-folder) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/krish778188/dsa-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
 | ------- |
