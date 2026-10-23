@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/krish778188/dsa-practice/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krish778188/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
+| [2073-time-needed-to-buy-tickets](https://github.com/krish778188/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish778188/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/krish778188/dsa-practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krish778188/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krish778188/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/krish778188/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/krish778188/dsa-practice/tree/master/0946-validate-stack-sequences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krish778188/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/krish778188/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
