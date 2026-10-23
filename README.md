@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krish778188/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krish778188/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krish778188/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/krish778188/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/krish778188/dsa-practice/tree/master/0832-flipping-an-image) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/krish778188/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
