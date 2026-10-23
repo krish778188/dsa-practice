@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/krish778188/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/krish778188/dsa-practice/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -478,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/krish778188/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krish778188/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
