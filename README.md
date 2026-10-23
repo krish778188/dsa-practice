@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krish778188/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/krish778188/dsa-practice/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krish778188/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/krish778188/dsa-practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/krish778188/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0856-score-of-parentheses) |
