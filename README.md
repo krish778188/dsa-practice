@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krish778188/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/krish778188/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krish778188/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krish778188/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/krish778188/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish778188/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krish778188/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krish778188/dsa-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/krish778188/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krish778188/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/krish778188/dsa-practice/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -490,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
