@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish778188/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/krish778188/dsa-practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krish778188/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krish778188/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/krish778188/dsa-practice/tree/master/1598-crawler-log-folder) |
 | [2409-count-days-spent-together](https://github.com/krish778188/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
+| [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krish778188/dsa-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0784-letter-case-permutation](https://github.com/krish778188/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/krish778188/dsa-practice/tree/master/0832-flipping-an-image) |
+| [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krish778188/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
