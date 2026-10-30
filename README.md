@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krish778188/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/krish778188/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krish778188/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/krish778188/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish778188/dsa-practice/tree/master/0032-longest-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/krish778188/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/krish778188/dsa-practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/krish778188/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krish778188/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/krish778188/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
