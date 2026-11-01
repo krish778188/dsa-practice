@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/krish778188/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krish778188/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/krish778188/dsa-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krish778188/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/krish778188/dsa-practice/tree/master/0494-target-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/krish778188/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krish778188/dsa-practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/krish778188/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/krish778188/dsa-practice/tree/master/2235-add-two-integers) |
