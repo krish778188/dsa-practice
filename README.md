@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/krish778188/dsa-practice/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/krish778188/dsa-practice/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krish778188/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krish778188/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/krish778188/dsa-practice/tree/master/0605-can-place-flowers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krish778188/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/krish778188/dsa-practice/tree/master/0740-delete-and-earn) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3903-smallest-stable-index-i](https://github.com/krish778188/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krish778188/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
