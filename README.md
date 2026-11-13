@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/krish778188/dsa-practice/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/krish778188/dsa-practice/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/krish778188/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krish778188/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krish778188/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/krish778188/dsa-practice/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krish778188/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish778188/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krish778188/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/krish778188/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/krish778188/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/krish778188/dsa-practice/tree/master/2235-add-two-integers) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3903-smallest-stable-index-i](https://github.com/krish778188/dsa-practice/tree/master/3903-smallest-stable-index-i) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/krish778188/dsa-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Design
 |  |
