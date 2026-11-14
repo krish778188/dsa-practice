@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krish778188/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krish778188/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krish778188/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krish778188/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/krish778188/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/krish778188/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/krish778188/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krish778188/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -549,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/krish778188/dsa-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/krish778188/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
