@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/krish778188/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krish778188/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/krish778188/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krish778188/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/krish778188/dsa-practice/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1598-crawler-log-folder](https://github.com/krish778188/dsa-practice/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/krish778188/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/krish778188/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/krish778188/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/krish778188/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krish778188/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/krish778188/dsa-practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krish778188/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krish778188/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/krish778188/dsa-practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/krish778188/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krish778188/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/krish778188/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/krish778188/dsa-practice/tree/master/0525-contiguous-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/krish778188/dsa-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/krish778188/dsa-practice/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krish778188/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/krish778188/dsa-practice/tree/master/3903-smallest-stable-index-i) |
