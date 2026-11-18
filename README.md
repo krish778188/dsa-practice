@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/krish778188/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/krish778188/dsa-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/krish778188/dsa-practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Longest Common Subsequence
 |  |
