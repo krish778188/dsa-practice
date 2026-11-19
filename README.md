@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/krish778188/dsa-practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/krish778188/dsa-practice/tree/master/2506-count-pairs-of-similar-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krish778188/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/krish778188/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krish778188/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/krish778188/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krish778188/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/krish778188/dsa-practice/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krish778188/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krish778188/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krish778188/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/krish778188/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krish778188/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/krish778188/dsa-practice/tree/master/1710-maximum-units-on-a-truck) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/krish778188/dsa-practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/krish778188/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/krish778188/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krish778188/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
